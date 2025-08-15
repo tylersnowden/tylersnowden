@@ -1,3 +1,5 @@
+![Github Banner](GithubBanner.jpg)
+
 ### 👋 Hello!
 
 #### I'm a Senior Software Developer.
